@@ -1,2 +1,2 @@
 # TicTacToe
-Its my own TicTacToe
+Its TTT simple text game
